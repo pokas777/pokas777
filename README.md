@@ -1,5 +1,5 @@
 # 💫 Sobre
-👔Director and Back-end Developer at NXGROUP;<br>👔Head Back-end Developer at NOVAGROUP;
+👔Director and Back-end Developer at NXGROUP;<br>👔Head Back-end Developer at MALIBU EXPERIENCE;
 # 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ped.lj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-lima-a4aa6b180/)
 # 💻 Linguagens e Tecnologias
