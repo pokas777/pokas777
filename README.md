@@ -1,11 +1,11 @@
 # 💫 Sobre
 ⚙️ Back-end Developer at FIVEM.
 # 📋 Histórico
-👔 OWNER and Back-end Developer at LIVEGROUP;
-👔 CEO and Back-end Developer at NEXUSGROUP (BERLIM);
-👔 Back-end Developer at SINTONIA;
-👔 Back-end Developer at KERP;
-👔 Back-end Developer at VICE;
+👔 OWNER and Back-end Developer at LIVEGROUP;<br/>
+👔 CEO and Back-end Developer at NEXUSGROUP (BERLIM);<br/>
+👔 Back-end Developer at SINTONIA;<br/>
+👔 Back-end Developer at KERP;<br/>
+👔 Back-end Developer at VICE;<br/>
 # 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ped.lj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lima-a4aa6b180/)
 # 💻 Linguagens e Tecnologias
